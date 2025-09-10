@@ -10,6 +10,7 @@ static const int sidepad = 15;              /* horizontal padding of bar */
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
+    // "JetBrainsMono Nerd Font:size=14:antialias=true:autohint=true"
 	"monospace:size=10"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
